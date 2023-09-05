@@ -1,0 +1,5 @@
+name<- readline(prompt = "Enter the name:")
+age<- readline("Enter the age:")
+print(name)
+print(as.integer(age))
+print(R.version.string)
